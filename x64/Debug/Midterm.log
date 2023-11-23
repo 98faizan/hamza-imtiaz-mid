@@ -1,0 +1,4 @@
+﻿  Source1.cpp
+C:\Users\Student\source\repos\Midterm\Midterm\Source1.cpp(12,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Student\source\repos\Midterm\Midterm\Source1.cpp(16,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Midterm.vcxproj -> C:\Users\Student\source\repos\Midterm\x64\Debug\Midterm.exe
